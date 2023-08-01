@@ -1,38 +1,20 @@
 
-# Simple boilerplate react app for teamwork
+# elfsight-test-case
 
-Boilerplate with React, Vite, TypeScript, Tailwind, ESlint, Prettier, AirBnb, Husky, Commitlint
+Тестовое задание в Elfsight
 
-Use this template to create your own React project.
+### В результате данного задания кандидат закрепит навыки разработки приложения на React.
 
+Используя [Rick and Morty API](https://rickandmortyapi.com/), реализуйте веб-приложение со следующими функциями:
 
-## Getting started
+- Пользователь может удобно просматривать всех персонажей и информацию о них (имя, статус, гендер), предоставляемые API.
+- Можно фильтровать персонажей по имени, статусу, виду, типу и полу.
+- Вышеуказанные фильтры могут применяться все вместе.
+- Пользователь может открыть всплывающее окно (popup) с полной информацией о персонаже.
 
-- Click on 'Use this template'
-- Create own repository
-- Open repository and run the following command on your local environment:
-```
-npm i
-```
-- Done! You can test this template, by running the command:
-```
-npm run dev
-```
+## Технические требования
 
-## Includes
-
-- React, Vite, TypeScript
-- ESlint and Prettier AirBnb code style
-- Husky conventional commit and precommit scripts
-- ESlint and Prettier for Tailwind
-
-
-## Philosophy
-
-This template was created exclusively for quick deployment of the project, with all the necessary dependencies for collaborative and single development.
-
-It solves the problem I faced myself, which is that there is no exact source in the public domain, where you will be explained how and what to put correctly in order to comfortably develop applications. 
-
-There are different approaches everywhere, different dependencies, which cause a stir to those who first encounter them.
-
-I'm not very experienced myself and it's quite possible this template is garbage, but I like it now and will use it in my projects until I realize that it needs to be changed.
+- Приложение написано на React.
+- Приложение работает в современных браузерах (последние версии Chrome и Safari).
+  Поэтому использование новейших технологий и шаблонов проектирования приветствуется.
+- Не использовано сторонних библиотек с готовыми компонентами.

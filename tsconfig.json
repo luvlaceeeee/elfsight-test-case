@@ -31,7 +31,7 @@
     "tailwind.config.js",
     "commitlint.config.js",
     "src",
-    "src/main.tsx"
+    "src/app/main.tsx"
   ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
